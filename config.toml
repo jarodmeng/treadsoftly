@@ -1,4 +1,4 @@
-baseurl = "https://treadsoftly.jarodmeng.me/"
+baseurl = "/"
 title = "Tread Softly."
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
